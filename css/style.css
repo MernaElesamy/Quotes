@@ -1,0 +1,18 @@
+.btn:hover{
+
+    background-color: olivedrab;
+    color: white;
+
+}
+.section p{
+    font-size: 50px;
+    line-height: 20px;
+    font-size: 30px;
+}
+.btn{
+    background-color: blue;
+    color: white;
+}
+#quote{
+    color: navy;
+}
